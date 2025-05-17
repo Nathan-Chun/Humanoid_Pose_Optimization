@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -ggdb -march=native -std=c++17 -O3 -DNDEBUG CMakeFiles/Pose_Optimization_CPP.dir/src/main.cpp.o CMakeFiles/Pose_Optimization_CPP.dir/src/optimizer.cpp.o CMakeFiles/Pose_Optimization_CPP.dir/src/kinematics.cpp.o -o Pose_Optimization_CPP  -Wl,-rpath,/usr/local/lib /usr/local/lib/libcasadi.so 
